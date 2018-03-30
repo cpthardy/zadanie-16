@@ -1,0 +1,15 @@
+#body{
+    background-color: darkgrey;
+}
+#header{
+    color: white;
+    margin-left: 20px;
+}
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
