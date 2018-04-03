@@ -1,5 +1,5 @@
-#body{
-    background-color: darkgrey;
+body {
+    background-color: darkgray;
 }
 #header{
     color: white;
@@ -9,7 +9,6 @@
     width: 100px;
     height: 100px;
     background-color: orange;
-    display: block;
     margin-bottom: 10px;
     margin-left: 30px;
 }
